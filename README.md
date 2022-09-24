@@ -1,2 +1,3 @@
-# coap-gateway-cluster
+# CoAP Gateway Cluster
+
 CoAP Gateway Cluster
